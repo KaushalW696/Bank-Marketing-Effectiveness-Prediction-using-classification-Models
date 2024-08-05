@@ -8,3 +8,4 @@ Predictive models improve targeting by identifying high-potential leads, leading
 
 ### 🚀 Improved Customer Engagement and Revenue
 By delivering tailored offers, the model enhances customer engagement, resulting in increased subscriptions and higher revenue through more effective use of marketing resources.
+## Benifits
